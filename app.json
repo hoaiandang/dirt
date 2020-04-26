@@ -1,0 +1,17 @@
+{
+  "name": "dirt",
+  "displayName": "dirt",
+  "expo": {
+    "name": "dirt",
+    "slug": "dirt",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
